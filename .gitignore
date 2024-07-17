@@ -1,0 +1,26 @@
+# Compiled class files
+*.class
+
+# Build and target directories
+target/
+build/
+bin/
+
+# IDE project configuration files
+# (Adjust patterns based on your IDE)
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+
+# Logging files
+*.log
+
+# Testing and coverage reports (optional)
+**/target/test-reports/
+coverage/
