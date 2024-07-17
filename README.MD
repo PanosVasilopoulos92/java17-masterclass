@@ -1,0 +1,1 @@
+This repository was created for the Udemy course "Java 17 Masterclass: Start Coding in 2024". It contains my solutions for the challenges/exercises that tutor has assigned, as well some practice applications.
